@@ -1,5 +1,5 @@
 # Railway-ticketing-system
-  1	Preliminary Investigation/Project Plan
+ # 1	Preliminary Investigation/Project Plan
   1.1	Introduction and Background
 Railway ticketing system is designed to make the process of booking train tickets easier and more efficient. It is a computerized system developed to support the services of rail transportation. This system helps passengers in different ways, such as providing purchasing of tickets, monitoring seats availability and many more. The main purpose of this system is to provide effective and faster ticket management for travel operators, railway departments, as well as allowing customers to purchase tickets electronically.
 
