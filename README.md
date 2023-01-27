@@ -70,6 +70,7 @@ The non-functional requirements of a Railway Reservation System include security
     2.3	Requirements Structuring
       2.3.1	Process modeling using DFD (describe your entire DFD, starting from Context Diagram all the way down to the Primitive DFD)
  ## Zero-Level diagram
+This is the Zero Level DFD of Railway Reservation System, where we have eloborated the high level process of Railway Reservation. It's a basic overview of the whole Railway Reservation System or process being analyzed or modeled. It's designed to be an at-a glance view of Train Route, Customer and Payment showing th system as a single high-level process, with its relationship to external entities of Trains, Booking and Ticket. It should be easily understood by a wide audience, including Trains, Ticket and Train Route in Zero Level DFD of Railway Reservation System
   ![](img/Zero-level.png)
   
       2.3.2	Logic Modeling (using either of the three logic modeling methods)
