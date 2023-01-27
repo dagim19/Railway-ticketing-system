@@ -36,7 +36,7 @@ Tool and Resource Requirements:
 - Software - Ticketing software will be required to collect customer information such as name, contact details etc., find out fare rates and routes based on user selection, create itineraries/schedules, manage bookings as well generate marketing reports after every transaction process. There should also adequate security measures built-in protect customer’s confidential details from malicious attacks or unintended exposure.  In addition , there might also need automated payment gateway integrations some form of loyalty program management tools (optional).
     
       1.8	Tasks (WBS) and Schedule 
-      1.9	[Risk Management]
+      1.9	Risk Management
 Railway ticketing systems can be managed in a number of ways to reduce the risk of fraud and abuse. One approach is to use a centralized system, in which tickets are issued and managed centrally. This approach can be more secure, as tickets cannot be easily counterfeit or stolen. Another approach is to use a distributed system, in which tickets are issued and managed by the individual stations along the railway network. This approach can be more flexible, as stations can vary in their ticketing policies and procedures. Finally, a hybrid system can be used, in which some elements of a centralized system are used, while other elements are implemented using a distributed system.
       
       1.10	Communication Plan
