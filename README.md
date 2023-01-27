@@ -5,10 +5,18 @@ Railway ticketing system is designed to make the process of booking train ticket
 This system also has several advantages over traditional methods like reducing wait time in queues, eliminating manual errors, fast amendment and cancellations of existing orders etc. Moreover this helps in keeping track of passenger’s details like names, contact information or other important documents etc which allows users to access these information easily whenever needed. As this system automates almost everything it makes the process easier for both travel operators as well as for the customers making it an ideal option for onboarding new customers across various platforms like online website or mobile application.
     
     1.2	Overview of the Current System 
-  
+        The manual railway ticketing system is a system used to purchase tickets for travel on railway vehicles. It is a paper-based ticketing system in which                passengers must purchase tickets from ticket sellers on the train. The system is not used in many countries, but is still in use in some countries, such as the        Ethiopia.
     1.3	Problem/Opportunity Statement
+        A manual railway ticketing system is a railway ticketing system which is operated by an operator, such as a station attendant, without the use of a computer.          It is also known as an "on-board" ticketing system.
+
+        A manual railway ticketing system is often used on heritage railways and heritage tramways where computers are not available or not practical to use. Manual          systems are also used on some narrow gauge railways.
+
+        Manual systems are often more reliable than computer-based systems, as the computer cannot be hacked or crashed, and there is no need for a back-up system in          the event of a problem. However, manual systems can be more difficult to use, as passengers must collect tickets from the operator.
+        
     1.4	Objectives of the Project
+        The objective of railway ticketing system is to provide a convenient and efficient way for passengers to purchase and use railway tickets.
     1.5	Significance of the Project
+       Railway ticketing is a system that allows passengers to buy tickets in advance of their journey, and to validate these tickets against a physical record at the       point of travel. The railway ticketing system is an important part of the railway infrastructure, and helps to ensure that passengers can travel safely and             without disruption.
     1.6	Scope of the Proposed System
     1.7	[Estimated Budget, Tool and Resource Requirements]
     1.8	Tasks (WBS) and Schedule 
