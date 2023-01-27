@@ -10,11 +10,27 @@ The manual railway ticketing system is a system used to purchase tickets for tra
 
     1.3	Problem/Opportunity Statement
  
-A manual railway ticketing system is a railway ticketing system which is operated by an operator, such as a station attendant, without the use of a computer.          It is also known as an "on-board" ticketing system.
+### The railway ticketing system offers a variety of advantages. These include the following:
 
-A manual railway ticketing system is often used on heritage railways and heritage tramways where computers are not available or not practical to use. Manual          systems are also used on some narrow gauge railways.
+   - Improved Security: The railway ticketing system allows for improved security as customers can book their tickets securely and without worry. This is due to its use of encryption technology to ensure personal information stays secure during the process. 
 
-Manual systems are often more reliable than computer-based systems, as the computer cannot be hacked or crashed, and there is no need for a back-up system in          the event of a problem. However, manual systems can be more difficult to use, as passengers must collect tickets from the operator.
+   - Increased Customer Satisfaction: With the digital ticketing system, customers have easier access to tickets and rail services with just a few clicks on their computer or smartphone's screen. This increased convenience leads to higher customer satisfaction. 
+
+   - Increased Efficiency: By leveraging technology such as AI, machine learning, and predictive analytics, the railway ticketing system helps automate many of the mundane tasks related to ticket bookings so that less manpower is required to accomplish them. This leads to more efficient operations and higher levels of customer service overall. 
+
+   - Automation of Services: Railway ticketing systems allow information regarding prices, routes, timetables, etc., available at all times so that customers can make informed decisions while booking tickets without relying on human interaction in-person or over telephone lines – reducing costs associated with manual labor as well as leading to faster turnaround times in terms of processing transactions. 
+
+   - Enhanced Tracking System: Keeping track of last minute seat changes become a much simpler process when automated through digital systems like this due to bigger data stores than would be contains in physical records - allowing operators to quickly identify patterns or clusters regarding certain customer preferences (such as looking for travel deals on particular time frames compared to others).
+
+### Some Disadvantages include 
+  
+   - Overbooking of tickets: One of the biggest problems faced by the railway ticketing system is overbooking of tickets. This happens when many passengers book the same train ticket, resulting in long queues and delays in their journey. 
+
+   - Availability of seats: Another common problem faced by the railway ticketing system is the availability of seats for passengers. Sometimes, despite having a booked ticket, passengers might not find an available seat to board their desired train as all seats on that particular train may already be taken. 
+
+   - Cancellations & Refunds: Cancelling booked tickets and getting refunds for them is another common problem faced by customers while dealing with the railway ticketing system. Many customers tend to face a great deal of stress in order to receive refunds for their cancelled tickets - they have to wait a minimum time-frame before they can get their money back, let alone a valid refund amount. 
+
+   - Delays & Locomotive breakdowns: Delays and locomotive breakdowns are inevitable event which often cause commuters much inconvenience and stress on daily basis trips during peak travel hours when there are too many people trying to catch the same train in a limited time frame.
         
     1.4	Objectives of the Project
 The objective of railway ticketing system is to provide a convenient and efficient way for passengers to purchase and use railway tickets.
