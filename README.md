@@ -26,15 +26,14 @@ Railway ticketing is a system that allows passengers to buy tickets in advance o
 The scope of a railway ticketing system encompasses all applications or processes associated with the booking, issuing, and reimbursement of train tickets. It covers features such as fare calculations, availability checking, and payment processing as well as reporting capabilities that provide insights into the performance of train ticket sales. The system may also feature various customer-facing interfaces for purchasing tickets online or through mobile apps.
 
     1.7	[Estimated Budget, Tool and Resource Requirements]
-The estimated budget for a railway ticketing system is $1 million. The tool and resource requirements for this project are as follows:
+Estimated Budget: 
+The estimated budget for a railway ticketing system would depend on a variety of factors such as the complexity of the system, how many stations are involved, how many types of tickets need to be processed and many more factors. As a general estimate, it may cost up to $1 million or more depending on the various requirements.
 
-   ##### 1. A computer system with a database management system (DBMS) that can store and retrieve data in a relational format.
-
-   ##### 2. A web server to host the system's website.
-
-   ##### 3. A user interface design software program to create the system's user interface.
-
-   ##### 4. A content management system (CMS) to manage the website's content.
+Tool and Resource Requirements: 
+- Computing Hardware - Computers and servers will be needed to run the system. The hardware should be able to handle the workloads associated with ticket reservation, printing and reporting. It should also have enough storage capacity for collecting and storing data about transactions.
+- Network Infrastructure - It will be necessary to connect all railway stations across the country or region through a dedicated high-speed network so that tickets can be reserved from any station in real time. This could include connecting points like routers, switches, etc., along with cables for data transmission so that customers can access railway services anytime and anywhere. 
+- Database server - A separate database server will be required for robust storage and access of customer information as well as fare details associated with different routes. This is important for providing accurate and up-to-date information while processing ticket requests.
+- Software - Ticketing software will be required to collect customer information such as name, contact details etc., find out fare rates and routes based on user selection, create itineraries/schedules, manage bookings as well generate marketing reports after every transaction process. There should also adequate security measures built-in protect customer’s confidential details from malicious attacks or unintended exposure.  In addition , there might also need automated payment gateway integrations some form of loyalty program management tools (optional).
     
     1.8	Tasks (WBS) and Schedule 
     1.9	[Risk Management]
