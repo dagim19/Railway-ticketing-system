@@ -1,21 +1,21 @@
 # Railway-ticketing-system
-1	Preliminary Investigation/Project Plan
-1.1	Introduction and Background
+  1	Preliminary Investigation/Project Plan
+  1.1	Introduction and Background
 Railway ticketing system is designed to make the process of booking train tickets easier and more efficient. It is a computerized system developed to support the services of rail transportation. This system helps passengers in different ways, such as providing purchasing of tickets, monitoring seats availability and many more. The main purpose of this system is to provide effective and faster ticket management for travel operators, railway departments, as well as allowing customers to purchase tickets electronically.
 
 This system also has several advantages over traditional methods like reducing wait time in queues, eliminating manual errors, fast amendment and cancellations of existing orders etc. Moreover this helps in keeping track of passenger’s details like names, contact information or other important documents etc which allows users to access these information easily whenever needed. As this system automates almost everything it makes the process easier for both travel operators as well as for the customers making it an ideal option for onboarding new customers across various platforms like online website or mobile application.
-1.2	Overview of the Current System 
-1.3	Problem/Opportunity Statement
-1.4	Objectives of the Project
-1.5	Significance of the Project
-1.6	Scope of the Proposed System
-1.7	[Estimated Budget, Tool and Resource Requirements]
-1.8	Tasks (WBS) and Schedule 
-1.9	[Risk Management]
-1.10	Communication Plan
-2	System Analysis
-2.1	[Detail overview of the existing system] 
-2.2	Requirements Determination (you talk about what kind of method is used for requirement determination and why. The different types of sources of information relevant to the proposed system are described in detail)
+  1.2	Overview of the Current System 
+  1.3	Problem/Opportunity Statement
+  1.4	Objectives of the Project
+  1.5	Significance of the Project
+  1.6	Scope of the Proposed System
+  1.7	[Estimated Budget, Tool and Resource Requirements]
+  1.8	Tasks (WBS) and Schedule 
+  1.9	[Risk Management]
+  1.10	Communication Plan
+  2	System Analysis
+  2.1	[Detail overview of the existing system] 
+  2.2	Requirements Determination (you talk about what kind of method is used for requirement determination and why. The different types of sources of information relevant to the proposed system are described in detail)
 2.2.1	Functional requirements 
 2.2.2	Non-functional requirements 
 2.3	Requirements Structuring
