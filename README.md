@@ -35,9 +35,11 @@ Tool and Resource Requirements:
 - Database server - A separate database server will be required for robust storage and access of customer information as well as fare details associated with different routes. This is important for providing accurate and up-to-date information while processing ticket requests.
 - Software - Ticketing software will be required to collect customer information such as name, contact details etc., find out fare rates and routes based on user selection, create itineraries/schedules, manage bookings as well generate marketing reports after every transaction process. There should also adequate security measures built-in protect customer’s confidential details from malicious attacks or unintended exposure.  In addition , there might also need automated payment gateway integrations some form of loyalty program management tools (optional).
     
-    1.8	Tasks (WBS) and Schedule 
-    1.9	[Risk Management]
-    1.10	Communication Plan
+      1.8	Tasks (WBS) and Schedule 
+      1.9	[Risk Management]
+Railway ticketing systems can be managed in a number of ways to reduce the risk of fraud and abuse. One approach is to use a centralized system, in which tickets are issued and managed centrally. This approach can be more secure, as tickets cannot be easily counterfeit or stolen. Another approach is to use a distributed system, in which tickets are issued and managed by the individual stations along the railway network. This approach can be more flexible, as stations can vary in their ticketing policies and procedures. Finally, a hybrid system can be used, in which some elements of a centralized system are used, while other elements are implemented using a distributed system.
+      
+      1.10	Communication Plan
   ## 2	System Analysis
     2.1	[Detail overview of the existing system] 
     2.2	Requirements Determination (you talk about what kind of method is used for requirement determination and why. The different types of sources of information relevant to the proposed system are described in detail)
