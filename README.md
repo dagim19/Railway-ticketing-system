@@ -86,8 +86,8 @@ This is the Zero Level DFD of Railway Reservation System, where we have eloborat
   
       2.3.2	Logic Modeling (using either of the three logic modeling methods)
       2.3.3	Conceptual Data Modeling using ER Model
-      2.3.3.1	Entity Types, Attributes and Relationships of the System
-      2.3.3.2	ER Diagram
+        2.3.3.1	Entity Types, Attributes and Relationships of the System
+        2.3.3.2	ER Diagram
 ## 3	System Design
     3.1	Database design
       3.1.1	Logical database design
