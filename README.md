@@ -78,6 +78,11 @@ This is the Zero Level DFD of Railway Reservation System, where we have eloborat
  First Level DFD of Railway Reservation System shows how the system is divided into sub-systems(processes), each of which deals with one or more of the data flows to or from an external agent, and which together provide all of the functionality of the Railway Reservation System system as a whole. It also identifies internal data stores of Payment, Customer, Train Route, Train Shedule, Ticket that must be present in order for the Railway Reservation system to do its job, and shows the flow of data between the various parts of Trains, Ticket, Customer, Payment, Train Route of the System. DFD Level 1 provides a more detailed breakout of pieces of the 1st level DFD
  
   ![](img/First-level.png)
+ 
+ ## Second-Level diagram
+  DFD level 2 then goes one step deeper into parts of Level 1 of Railway Reservation. It may require more functionalities of Railway Reservation to reach the necessary level of detail about the Railway Reservation functioning. First Level DFD of Railway Reservation System shows how the system is divided into sub-systems(processes). The 2nd Level DFD contains more details of Payment, Customer, Train Route, Train Shedule, Ticket, Booking, Trains.
+  
+  ![](img/Second-level.png)
   
       2.3.2	Logic Modeling (using either of the three logic modeling methods)
       2.3.3	Conceptual Data Modeling using ER Model
