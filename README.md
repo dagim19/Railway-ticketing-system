@@ -69,6 +69,8 @@ The non-functional requirements of a Railway Reservation System include security
 
     2.3	Requirements Structuring
       2.3.1	Process modeling using DFD (describe your entire DFD, starting from Context Diagram all the way down to the Primitive DFD)
+ ## Zero-Level diagram
+  ![](images/Screenshot%20(638).png)
       2.3.2	Logic Modeling (using either of the three logic modeling methods)
       2.3.3	Conceptual Data Modeling using ER Model
       2.3.3.1	Entity Types, Attributes and Relationships of the System
