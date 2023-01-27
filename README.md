@@ -6,7 +6,7 @@ This system also has several advantages over traditional methods like reducing w
     
     1.2	Overview of the Current System 
         
-The manual railway ticketing system is a system used to purchase tickets for travel on railway vehicles. It is a paper-based ticketing system in which                passengers must purchase tickets from ticket sellers on the train. The system is not used in many countries, but is still in use in some countries, such as the        Ethiopia.
+The current railway ticketing system is a paper-based ticketing system in which passengers must purchase tickets from ticket sellers on the train. The system is not used in many countries, but is still in use in some countries, such as the Ethiopia.
 
     1.3	Problem/Opportunity Statement
  
