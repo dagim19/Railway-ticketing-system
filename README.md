@@ -33,7 +33,7 @@ The current railway ticketing system is a paper-based ticketing system in which 
    - Delays & Locomotive breakdowns: Delays and locomotive breakdowns are inevitable event which often cause commuters much inconvenience and stress on daily basis trips during peak travel hours when there are too many people trying to catch the same train in a limited time frame.
         
     1.4	Objectives of the Project
-The objective of railway ticketing system is to provide a convenient and efficient way for passengers to purchase and use railway tickets.
+The primary objective of the Railway Reservation System is to provide an efficient and streamlined way for passengers to book tickets and check seat availability. It also enables railway authorities to manage their resources effectively, reducing overcrowding on trains and providing a better customer experience. Additionally, the system allows passengers to track their ticket status, thus providing greater transparency and convenience when traveling.
    
     1.5	Significance of the Project
 Railway ticketing is a system that allows passengers to buy tickets in advance of their journey, and to validate these tickets against a physical record at the       point of travel. The railway ticketing system is an important part of the railway infrastructure, and helps to ensure that passengers can travel safely and             without disruption.
