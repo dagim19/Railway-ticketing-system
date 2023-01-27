@@ -21,8 +21,21 @@ The objective of railway ticketing system is to provide a convenient and efficie
    
     1.5	Significance of the Project
 Railway ticketing is a system that allows passengers to buy tickets in advance of their journey, and to validate these tickets against a physical record at the       point of travel. The railway ticketing system is an important part of the railway infrastructure, and helps to ensure that passengers can travel safely and             without disruption.
+
     1.6	Scope of the Proposed System
+The scope of a railway ticketing system encompasses all applications or processes associated with the booking, issuing, and reimbursement of train tickets. It covers features such as fare calculations, availability checking, and payment processing as well as reporting capabilities that provide insights into the performance of train ticket sales. The system may also feature various customer-facing interfaces for purchasing tickets online or through mobile apps.
+
     1.7	[Estimated Budget, Tool and Resource Requirements]
+The estimated budget for a railway ticketing system is $1 million. The tool and resource requirements for this project are as follows:
+
+   ##### 1. A computer system with a database management system (DBMS) that can store and retrieve data in a relational format.
+
+   ##### 2. A web server to host the system's website.
+
+   ##### 3. A user interface design software program to create the system's user interface.
+
+   ##### 4. A content management system (CMS) to manage the website's content.
+    
     1.8	Tasks (WBS) and Schedule 
     1.9	[Risk Management]
     1.10	Communication Plan
